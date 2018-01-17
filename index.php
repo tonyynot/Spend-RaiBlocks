@@ -2,7 +2,7 @@
 <html>
 <head ><link rel="shortcut icon" type="image/x-icon" href="raiblocks.png" />
 	<title class="Title">Spend RaiBlocks</title>
-	<link rel="stylesheet" type="text/css" href="index2.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 
 <body>
