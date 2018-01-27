@@ -10,6 +10,7 @@ a {
 
 .btn {
   border-width: 2px;
+  height: 4rem;
 }
 
 .bg-primary {
@@ -48,4 +49,9 @@ a {
     background-color: darken($secondary, 10%);
     border-color: darken($secondary, 10%);
   }
+}
+
+.form-control {
+  width: 23rem !important;
+  height: 4rem;
 }
