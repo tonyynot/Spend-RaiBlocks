@@ -11,10 +11,16 @@ a {
 .btn {
   border-width: 2px;
   height: 4rem;
+  &-social {
+    height: auto !important;
+  }
 }
 
 .bg-primary {
   background-color: $primary !important;
+  a {
+    color: $buttercup;
+  }
 }
 
 .bg-secondary {
