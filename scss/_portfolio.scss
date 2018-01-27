@@ -5,7 +5,6 @@
     position: relative;
     display: block;
     max-width: 25rem;
-    margin-bottom: 15px;
     .portfolio-item-caption {
       -webkit-transition: all ease 0.5s;
       -moz-transition: all ease 0.5s;
@@ -23,7 +22,6 @@
   @media (min-width: 576px) {
     margin-bottom: -30px;
     .portfolio-item {
-      margin-bottom: 30px;
     }
   }
 }
